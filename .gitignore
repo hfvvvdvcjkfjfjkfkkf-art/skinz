@@ -1,0 +1,13 @@
+.gradle/
+.idea/
+*.iml
+*.apk
+*.ap_
+*.class
+*.jar
+*.ktx
+build/
+captures/
+.DS_Store
+local.properties
+google-services.json
